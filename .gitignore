@@ -1,0 +1,42 @@
+# PHP 관련 파일
+/vendor/
+composer.lock
+.env
+
+# 메일 관련 설정 파일
+send_mail.php
+mail_config.php
+
+# 로그 파일
+*.log
+logs/
+
+# 임시 파일
+*.tmp
+*.temp
+.cache/
+temp/
+
+# OS 관련 파일
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE 및 에디터 관련 파일
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
+*.swp
+*.swo
+
+# 개인 정보 파일
+config.php
+connection.php
+database.php
+credentials.php
+
+# 백업 파일
+*.bak
+*.back
+*.backup
