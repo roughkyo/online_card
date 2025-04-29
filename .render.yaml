@@ -1,0 +1,12 @@
+services:
+  - type: web
+    name: online_card
+    env: docker
+    region: singapore
+    plan: free
+    branch: main
+    dockerfilePath: ./Dockerfile
+    buildFilter:
+      paths:
+        - "**/*"
+    autoDeploy: true
