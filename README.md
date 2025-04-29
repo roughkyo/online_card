@@ -1,10 +1,10 @@
-# 온라인 명함 (Online Card)
+# [중급]온라인 명함 (Online Card)
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
-개인 정보와 프로필을 깔끔하게 표시하는 반응형 온라인 명함 웹사이트입니다.
+개인 정보와 프로필을 깔끔하게 표시하는 반응형 온라인 명함 웹사이트
 
 ## 주요 기능
 
@@ -41,16 +41,16 @@
 
 ### 개인 정보 변경
 
-`index.php` 파일 상단의 `$user` 배열을 수정하여 개인 정보를 업데이트할 수 있습니다.
+`index.php` 파일 상단의 `$user` 배열을 수정하여 개인 정보 업데이트 가능
 
 ```php
 $user = [
-    'name' => '이름을 변경하세요',
-    'position' => '직책을 변경하세요',
-    'email' => '이메일을 변경하세요',
-    'phone' => '전화번호를 변경하세요',
-    'address' => '주소를 변경하세요',
-    'profile_image' => '프로필 이미지 URL을 변경하세요'
+    'name' => '이름',
+    'position' => '직책',
+    'email' => '이메일',
+    'phone' => '전화번호',
+    'address' => '주소',
+    'profile_image' => '프로필 이미지 URL'
 ];
 ```
 
@@ -67,4 +67,4 @@ $user = [
 
 ## 라이선스
 
-MIT License
+YangPhago
