@@ -232,7 +232,7 @@ input:focus, textarea:focus {
                     <div class="bg-gray-900 rounded-lg overflow-hidden shadow-md">
                         <div class="relative pb-[100%]"> <!-- 정사각형 비율 1:1 -->
                             <iframe 
-                                src="https://www.youtube.com/embed/dQw4w9WgXcQ" 
+                                src="https://www.youtube.com/watch?v=UZkg-bYxfH0&list=PLf1-OjJ8WJr1M2pIt27nt8kgW4_HxUwhd&ab_channel=%ED%9D%AC%EB%A0%8C%EC%B5%9C%EB%84%90Hirenze" 
                                 frameborder="0" 
                                 allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
                                 allowfullscreen
@@ -250,7 +250,7 @@ input:focus, textarea:focus {
                     <div class="bg-gray-900 rounded-lg overflow-hidden shadow-md">
                         <div class="relative pb-[100%]"> <!-- 정사각형 비율 1:1 -->
                             <iframe 
-                                src="https://www.youtube.com/embed/jNQXAC9IVRw" 
+                                src="https://www.youtube.com/watch?v=0LHWEcYKgjc&ab_channel=%EC%94%A8%EB%A7%88%EC%8A%A4%EC%97%90%EB%93%80" 
                                 frameborder="0" 
                                 allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
                                 allowfullscreen
@@ -268,7 +268,7 @@ input:focus, textarea:focus {
                     <div class="bg-gray-900 rounded-lg overflow-hidden shadow-md">
                         <div class="relative pb-[100%]"> <!-- 정사각형 비율 1:1 -->
                             <iframe 
-                                src="https://www.youtube.com/embed/XqZsoesa55w" 
+                                src="https://www.youtube.com/watch?v=HnvitMTkXro&ab_channel=3Blue1Brown%ED%95%9C%EA%B5%AD%EC%96%B4" 
                                 frameborder="0" 
                                 allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
                                 allowfullscreen
@@ -286,7 +286,7 @@ input:focus, textarea:focus {
                     <div class="bg-gray-900 rounded-lg overflow-hidden shadow-md">
                         <div class="relative pb-[100%]"> <!-- 정사각형 비율 1:1 -->
                             <iframe 
-                                src="https://www.youtube.com/embed/9bZkp7q19f0" 
+                                src="https://www.youtube.com/watch?v=jPs3n9Vou9c&t=16s&ab_channel=%EB%A9%94%ED%83%80%EC%BD%94%EB%93%9CM" 
                                 frameborder="0" 
                                 allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
                                 allowfullscreen
